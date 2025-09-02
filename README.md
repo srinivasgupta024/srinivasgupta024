@@ -8,7 +8,7 @@
 
 - 🔭 Aspiring **Data Engineer**
 
-- 👨‍💻 Ask me about **Cloud Data Engineering**
+- 👨‍💻 Ask me about **Data Engineering**
 
 - 💬 LinkedIn **https://www.linkedin.com/in/srinivas-gupta-veerabomma/**
 
